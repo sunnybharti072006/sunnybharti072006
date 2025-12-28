@@ -1,5 +1,5 @@
 # 💫 About Me:
-Goal: Become a strong Android developer using Kotlin/Java + XML<br><br>Gain working knowledge of C++ for logic & performance<br><br>Master Java deeply (OOP, Collections, Multithreading)<br><br>Learn Android XML layouts (ConstraintLayout, RecyclerView, styles)<br><br>Understand Android app lifecycle clearly<br><br>Practice Activities, Fragments, Intents<br><br>Learn MVVM architecture (ViewModel, LiveData)<br><br>Work with Room, Retrofit, REST APIs<br><br>Practice DSA using Java<br><br>Build 2–3 Android apps, write clean code, and maintain GitHub projects
+Goal: Become a strong Android developer using Kotlin/Java + XML<br><br>Gain working knowledge of C++ and java for logic & performance<br><br>Master Java deeply (OOP, Collections, Multithreading)<br><br>Learn Android XML layouts (ConstraintLayout, RecyclerView, styles)<br><br>Understand Android app lifecycle clearly<br><br>Practice Activities, Fragments, Intents<br><br>Learn MVVM architecture (ViewModel, LiveData)<br><br>Work with Room,firebase<br><br>Practice DSA using Java and c++<br><br>Build 2–3 Android apps, write clean code, and maintain GitHub projects
 
 
 ## 🌐 Socials:
