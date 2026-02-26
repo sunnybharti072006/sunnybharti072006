@@ -1,6 +1,6 @@
-💫 About Me:
+ About Me:
 
-🎯 Developer focused on building scalable backend systems using Spring Boot & Java, while also developing modern Android applications for fun.
+ Developer focused on building scalable backend systems using Spring Boot & Java, while also developing modern Android applications for fun.
 
 Strong in Spring Boot (REST APIs, Backend Architecture, Database Integration)
 
