@@ -1,5 +1,20 @@
-# 💫 About Me:
-Goal: Become a strong Android developer using Kotlin/Java + XML<br><br>Gain working knowledge of C++ and java for logic & performance<br><br>Master Java deeply (OOP)<br><br>Learn Android XML layouts<br><br>Understand Android app lifecycle clearly<br><br>Practice Activities, Fragments, Intents<br><br>Learn MVVM architecture (ViewModel, LiveData)<br><br>Work with Room,firebase<br><br>Practice DSA using Java and c++<br><br>Build 2–3 Android apps, write clean code, and maintain GitHub projects
+💫 About Me:
+
+🎯 Developer focused on building scalable backend systems using Spring Boot & Java, while also developing modern Android applications for fun.
+
+Strong in Spring Boot (REST APIs, Backend Architecture, Database Integration)
+
+Solid foundation in Java (OOP, Core Concepts)
+
+Working with MySQL / Firebase / Room / PostgreSQL
+
+Building Android apps using Kotlin/Java + XML
+
+Understanding Android Lifecycle (Activities, Fragments, Intents)
+
+Implementing MVVM Architecture (ViewModel, LiveData)
+
+Focused on clean code & real-world projects
 
 
 ## 🌐 Socials:
