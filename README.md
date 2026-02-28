@@ -50,8 +50,6 @@ My go-to tools and technologies for bringing ideas to life:
 <!-- TODO: Add your databases and other tools -->
 
 
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnybharti072006&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### 🔥 Streak Statistics
 <p align="center">
