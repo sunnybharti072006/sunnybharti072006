@@ -1,28 +1,28 @@
-# Hi there! 👾 I'm Sunny Bharti
+# Hi there! 👾 I'm SunnyBharti
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Backend+Developer;Spring+Boot+%26+Java+Enthusiast;Microservices+Architect;Android+Developer)](https://git.io/typing-svg)
-
----
-
-## 🚀 Welcome to My Dashboard!
-
-I'm a passionate Backend Developer with a strong focus on building robust, scalable, and efficient systems using Java and Spring Boot. My expertise spans across designing and implementing microservices, crafting RESTful APIs, and developing engaging Android applications. I thrive on solving complex problems and contributing to projects that make a real impact.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Backend+Developer;Spring+Boot+%26+Java+Enthusiast;Microservices+Architect;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
-## 🎯 Current Focus & Learning
+## 👨‍💻 About Me
 
-- 🔭 **Working on**: Architecting a scalable microservice platform for a financial application. <!-- TODO: Add your current main project -->
-- 🌱 **Learning**: Advanced cloud-native patterns with Spring Cloud and delving deeper into event-driven architectures. <!-- TODO: Add what you're currently learning -->
-- 👯 **Looking to collaborate on**: Open-source backend projects, especially those involving Java, Spring Boot, or Kotlin for Android.
-- 💬 **Ask me about**: Java, Spring Boot, Microservices, REST APIs, API Design, Android Development (Kotlin/Java). <!-- TODO: Add your areas of expertise -->
-- ⚡ **Fun fact**: I once debugged a critical production issue while on a cross-country flight, powered only by coffee and determination! <!-- TODO: Add a fun fact -->
+I'm a passionate **Backend Developer** focused on building robust, scalable, and efficient server-side applications. My journey in tech is driven by a curiosity for how systems work and a desire to craft elegant solutions to complex problems.
 
----
+My expertise primarily lies in the Java ecosystem, particularly with **Spring Boot** for creating powerful RESTful APIs and **Microservices** architectures. I enjoy diving deep into system design, optimizing performance, and ensuring a seamless experience for both developers and end-users. Beyond backend, I also have a keen interest in **Android development**, leveraging Kotlin and Java to build mobile applications.
+
+I'm a firm believer in clean code, continuous learning, and the power of collaboration. Currently, I'm exploring new patterns in distributed systems and cloud-native development to further enhance my skill set.
+
+## 🎯 Current Focus
+
+- 🔭 Working on: **A scalable microservices platform using Spring Cloud** <!-- TODO: Add your current main project -->
+- 🌱 Learning: **Advanced SpringBoot And JAVA** <!-- TODO: Add what you're currently learning -->
+- 👯 Looking to collaborate on: **Open Source projects related to Java/Spring Boot or Android**
+- 💬 Ask me about: **Backend development, REST API design, Spring Boot, or Java performance** <!-- TODO: Add your areas of expertise -->
+- ⚡ Fun fact: **I once debugged a tricky concurrency issue by drawing the entire process flow on a whiteboard!** <!-- TODO: Add a fun fact -->
 
 ## 🛠️ Technology Arsenal
 
-My go-to tools and technologies for bringing ideas to life:
+My toolkit is constantly evolving, but here are the technologies I frequently work with:
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,23 +33,35 @@ My go-to tools and technologies for bringing ideas to life:
 ### 🚀 Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 <!-- TODO: Add your actual frameworks -->
 
 ### ☁️ Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!-- TODO: Add your cloud/devops tools -->
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-<!-- TODO: Add your databases and other tools -->
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- TODO: Add your databases -->
 
+---
 
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunnybharti072006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnybharti072006&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sunnybharti072006&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+</p>
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnybharti072006&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### 🔥 Streak Statistics
 <p align="center">
@@ -61,67 +73,27 @@ My go-to tools and technologies for bringing ideas to life:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section. Example: https://github.com/JamesIves/github-activity-readme -->
+<!-- TODO: Set up GitHub Actions to auto-update this section with your latest activities -->
+- ⚙️ Workflow run `build-and-test` was [requested](https://github.com/sunnybharti072006/Java-Code/actions/runs/8404838641) on sunnybharti072006/Java-Code.
+- ⚙️ Workflow run `build-and-test` was [requested](https://github.com/sunnybharti072006/Java-Code/actions/runs/8404764817) on sunnybharti072006/Java-Code.
+- ⚙️ Workflow run `build-and-test` was [requested](https://github.com/sunnybharti072006/Java-Code/actions/runs/8404709419) on sunnybharti072006/Java-Code.
+- ⚙️ Workflow run `build-and-test` was [requested](https://github.com/sunnybharti072006/Java-Code/actions/runs/8404646700) on sunnybharti072006/Java-Code.
+- ⚙️ Workflow run `build-and-test` was [requested](https://github.com/sunnybharti072006/Java-Code/actions/runs/8404561081) on sunnybharti072006/Java-Code.
 <!--END_SECTION:activity-->
 
----
-
-## 🏗️ Highlighted Projects
-
-Showcasing a few projects that demonstrate my skills and passion:
-
-<div align="center">
-
-### 🌟 [Spring Boot Microservices Boilerplate](https://github.com/sunnybharti072006/YOUR_MICROSERVICE_REPO) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sunnybharti072006&repo=YOUR_MICROSERVICE_REPO&theme=tokyonight)](https://github.com/sunnybharti072006/YOUR_MICROSERVICE_REPO)
-
-**Tech Stack:** Java • Spring Boot • Microservices • Docker • PostgreSQL
-**Status:** 🚀 Production-ready template | ⭐ 2 + Stars |
-*A foundational boilerplate for quickly setting up new microservice projects with best practices in Spring Boot, including service discovery, API gateway, and centralized configuration.*
-
----
-
-### 🔥 [Secure REST API with Spring Security](https://github.com/sunnybharti072006/YOUR_REST_API_REPO) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sunnybharti072006&repo=YOUR_REST_API_REPO&theme=tokyonight)](https://github.com/sunnybharti072006/YOUR_REST_API_REPO)
-
-**Tech Stack:** Java • Spring Boot • Spring Security • JWT • MySQL
-**Status:** ✅ Complete | ⭐ 2 + Stars |
-*Developed a robust and secure RESTful API demonstrating comprehensive authentication and authorization using Spring Security and JWT for token-based access.*
-
----
-
-### ⚡ [Kotlin Android App Starter](https://github.com/sunnybharti072006/YOUR_ANDROID_APP_REPO) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sunnybharti072006&repo=YOUR_ANDROID_APP_REPO&theme=tokyonight)](https://github.com/sunnybharti072006/YOUR_ANDROID_APP_REPO)
-
-**Tech Stack:** Kotlin • Android • MVVM • Retrofit • Room DB
-**Status:** 🚧 In Development |
-*A clean architecture template for modern Android applications built with Kotlin, following MVVM pattern and integrating essential libraries for networking and local data persistence.*
 
 </div>
 
 ---
 
-## 🎓 Achievements
+## 🎓Achievements
 <!-- TODO: Add your certifications, courses, achievements -->
-- 🥇 **LeetCode 75+ Qustions in Java**: Recognized for advanced problem-solving skills in Java.
-
-## 📝 Latest Blog Posts
-<!-- TODO: Add your recent blog posts -->
-- 📖 [Building Scalable Microservices with Spring Boot and Kafka](https://yourblog.com/microservices-kafka)
-- 🔧 [Demystifying Spring Security: A Deep Dive into Custom Filters](https://yourblog.com/spring-security-filters)
-- ☁️ [Containerizing Your Spring Boot Application with Docker Best Practices](https://yourblog.com/docker-spring-boot)
-
-## 🎯 2026 Goals
-<!-- TODO: Update with your current year goals -->
-- 🚀 Contribute to 5+ significant open-source projects.
-- 🌟 Explore serverless architectures with AWS Lambda and Spring Cloud Function.
-- 📝 Publish 6+ technical blog posts on backend development.
-- 🚀 Become a java spring boot dev.
+- 🏆 **75+ Leetcode **
 
 
 ## 🌐 Let's Connect & Collaborate
 
-I'm always open to new opportunities, collaborations, and discussions about technology!
+I'm always open to discussing new ideas, collaborating on interesting projects, or simply connecting with fellow developers!
 
 <div align="center">
 
@@ -133,7 +105,7 @@ I'm always open to new opportunities, collaborations, and discussions about tech
 
 ### 📱 Social Presence
 [![GitHub followers](https://img.shields.io/github/followers/sunnybharti072006?style=social)](https://github.com/sunnybharti072006)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle if you have one -->
 
 </div>
 
@@ -145,6 +117,11 @@ If you found my projects helpful or learned something from my code, consider sup
 
 <div align="center">
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
+
+[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/sunnybharti072006) <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
 
 </div>
 
