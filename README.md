@@ -40,18 +40,13 @@ My go-to tools and technologies for bringing ideas to life:
 ![Mockito](https://img.shields.io/badge/Mockito-9F0000?style=for-the-badge&logo=mockito&logoColor=white)
 <!-- TODO: Add your actual frameworks -->
 
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### ☁️ Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!-- TODO: Add your cloud/devops tools -->
 
 ### 🗄️ Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 <!-- TODO: Add your databases and other tools -->
@@ -98,7 +93,7 @@ Showcasing a few projects that demonstrate my skills and passion:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sunnybharti072006&repo=YOUR_MICROSERVICE_REPO&theme=tokyonight)](https://github.com/sunnybharti072006/YOUR_MICROSERVICE_REPO)
 
 **Tech Stack:** Java • Spring Boot • Microservices • Docker • PostgreSQL
-**Status:** 🚀 Production-ready template | ⭐ [X]+ Stars | 🍴 [Y]+ Forks
+**Status:** 🚀 Production-ready template | ⭐ 2 + Stars |
 *A foundational boilerplate for quickly setting up new microservice projects with best practices in Spring Boot, including service discovery, API gateway, and centralized configuration.*
 
 ---
@@ -107,7 +102,7 @@ Showcasing a few projects that demonstrate my skills and passion:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sunnybharti072006&repo=YOUR_REST_API_REPO&theme=tokyonight)](https://github.com/sunnybharti072006/YOUR_REST_API_REPO)
 
 **Tech Stack:** Java • Spring Boot • Spring Security • JWT • MySQL
-**Status:** ✅ Complete | ⭐ [A]+ Stars | 🍴 [B]+ Forks
+**Status:** ✅ Complete | ⭐ 2 + Stars |
 *Developed a robust and secure RESTful API demonstrating comprehensive authentication and authorization using Spring Security and JWT for token-based access.*
 
 ---
@@ -116,19 +111,16 @@ Showcasing a few projects that demonstrate my skills and passion:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sunnybharti072006&repo=YOUR_ANDROID_APP_REPO&theme=tokyonight)](https://github.com/sunnybharti072006/YOUR_ANDROID_APP_REPO)
 
 **Tech Stack:** Kotlin • Android • MVVM • Retrofit • Room DB
-**Status:** 🚧 In Development | ⭐ [C]+ Stars | 🍴 [D]+ Forks
+**Status:** 🚧 In Development |
 *A clean architecture template for modern Android applications built with Kotlin, following MVVM pattern and integrating essential libraries for networking and local data persistence.*
 
 </div>
 
 ---
 
-## 🎓 Certifications & Achievements
+## 🎓 Achievements
 <!-- TODO: Add your certifications, courses, achievements -->
-- 🏆 **AWS Certified Developer - Associate**: Validating expertise in developing and deploying cloud-native applications on AWS.
-- 📜 **Oracle Certified Professional, Java SE 11 Developer**: Demonstrating proficiency in Java programming.
-- 🥇 **HackerRank 5-star in Java**: Recognized for advanced problem-solving skills in Java.
-- 📊 **Coursera Microservices Specialization**: Completed comprehensive training on microservices architecture and implementation.
+- 🥇 **LeetCode 75+ Qustions in Java**: Recognized for advanced problem-solving skills in Java.
 
 ## 📝 Latest Blog Posts
 <!-- TODO: Add your recent blog posts -->
@@ -136,20 +128,13 @@ Showcasing a few projects that demonstrate my skills and passion:
 - 🔧 [Demystifying Spring Security: A Deep Dive into Custom Filters](https://yourblog.com/spring-security-filters)
 - ☁️ [Containerizing Your Spring Boot Application with Docker Best Practices](https://yourblog.com/docker-spring-boot)
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 <!-- TODO: Update with your current year goals -->
 - 🚀 Contribute to 5+ significant open-source projects.
-- 📚 Master Kubernetes for container orchestration.
 - 🌟 Explore serverless architectures with AWS Lambda and Spring Cloud Function.
 - 📝 Publish 6+ technical blog posts on backend development.
+- 🚀 Become a java spring boot dev.
 
-## 🏆 Open Source Contributions
-<!-- TODO: Highlight your major contributions -->
-- 🔧 **[Popular Java Library Name]**: Contributed a performance-critical bug fix and enhanced documentation.
-- 🌟 **[Spring Community Project]**: Developed a new feature module improving integration with a popular message broker.
-- 🚀 **[Android Utility Library]**: Maintained and added new utility functions, improving developer experience.
-
----
 
 ## 🌐 Let's Connect & Collaborate
 
@@ -177,11 +162,6 @@ If you found my projects helpful or learned something from my code, consider sup
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/sunnybharti072006) <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
 
 </div>
 
