@@ -28,7 +28,6 @@ My go-to tools and technologies for bringing ideas to life:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!-- TODO: Add/remove languages based on your actual skills -->
 
 ### 🚀 Frameworks & Libraries
@@ -37,7 +36,6 @@ My go-to tools and technologies for bringing ideas to life:
 ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-9F0000?style=for-the-badge&logo=mockito&logoColor=white)
 <!-- TODO: Add your actual frameworks -->
 
 ### ☁️ Cloud
