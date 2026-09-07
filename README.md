@@ -3,11 +3,38 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-%3E_whoami-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00&labelColor=000000" />
+  <img src="https://img.shields.io/badge/-%3E_root%40shockwave-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00&labelColor=000000" />
 </p>
 
+<div align="center">
+
 ```bash
-sunny@gurugram:~$ cat about.txt
+┌──(sunny㉿gurugram)-[~]
+└─$ neofetch
+```
+
+```
+        _nnnn_                  sunny@gurugram
+       dGGGGMMb                 --------------
+      @p~qp~~qMb                OS: Linux (btw)
+      M|@||@) M|                Host: St. Andrews IT & Management
+      @,----.JM|                Kernel: B.Tech-CSE-2024.2028
+     JS^\__/  qKL                Uptime: since 2024, still compiling
+    dZP        qKRb               Shell: Java + Spring Boot
+   dZP          qKKb              DE: Backend Systems
+  fZP            SMMb             Focus: Java, Spring Boot, Backend
+  HZM            MMMM              Also: Kotlin (Android), C++ (Systems)
+  FqM            MMMM             Role: Back End Developer Intern @ Nimblize
+__| ".        |\dS"qML
+|    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMP|   .'
+     `-'       `--'
+```
+
+```bash
+┌──(sunny㉿gurugram)-[~]
+└─$ cat about.txt
 ```
 
 ```yaml
@@ -24,57 +51,11 @@ sunny@gurugram:~$ cat about.txt
 ```
 
 ```bash
-sunny@gurugram:~$ ls projects/
+┌──(sunny㉿gurugram)-[~]
+└─$ cat skills.txt
 ```
 
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🎙️ FairVoice
-Anonymous consumer complaint aggregator platform, built with Spring Boot.
-
-</td>
-<td width="50%">
-
-### ⚡ Beast-Mode Rate Limiter
-Standalone Spring Boot starter library implementing five rate-limiting algorithms.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🗄️ NeoDB
-Custom database engine written in C++17 with zero external dependencies.
-
-</td>
-<td width="50%">
-
-### 🔍 Kriptonian
-Private web search engine — own crawler and index, a mini-Google.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📡 Offline Mesh Chat
-Android app for nearby auto-discovery chat, gated by per-user special codes.
-
-</td>
-<td width="50%">
-
-### 👁️ WATCHER
-URL change-detection and alerting system for tracking updates automatically.
-
-</td>
-</tr>
-</table>
-
-```bash
-sunny@gurugram:~$ cat skills.txt
-```
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -86,9 +67,14 @@ sunny@gurugram:~$ cat skills.txt
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<div align="center">
+
 ```bash
-sunny@gurugram:~$ ./show_stats.sh
+┌──(sunny㉿gurugram)-[~]
+└─$ ./show_stats.sh
 ```
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunnybharti072006&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
@@ -99,14 +85,26 @@ sunny@gurugram:~$ ./show_stats.sh
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnybharti072006&layout=compact&theme=radical&hide_border=true" width="50%" />
 </p>
 
+<div align="center">
+
 ```bash
-sunny@gurugram:~$ cat connect.txt
+┌──(sunny㉿gurugram)-[~]
+└─$ cat connect.txt
 ```
+
+</div>
 
 <p align="center">
   <a href="https://github.com/sunnybharti072006"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <em>sunny@gurugram:~$ echo "thanks for stopping by" _</em>
-</p>
+<div align="center">
+
+```bash
+┌──(sunny㉿gurugram)-[~]
+└─$ echo "thanks for stopping by" && exit
+thanks for stopping by
+[process exited normally]
+```
+
+</div>
