@@ -17,11 +17,11 @@
 ```
 
 ```
-        _nnnn_                  sunny@gurugram
-       dGGGGMMb                 --------------
-      @p~qp~~qMb                OS: Linux (btw)
-      M|@||@) M|                Host: Gurugram, India
-      @,----.JM|                Kernel: B.Tech-CSE-2024.2028
+        _nnnn_                   sunny@gurugram
+       dGGGGMMb                  --------------
+      @p~qp~~qMb                 OS: Linux (btw)
+      M|@||@) M|                 Host: Gurugram, India
+      @,----.JM|                 Kernel: B.Tech-CSE-2024.2028
      JS^\__/  qKL                Uptime: since 2024, still compiling
     dZP        qKRb               Shell: Java + Spring Boot
    dZP          qKKb              DE: Backend Systems
