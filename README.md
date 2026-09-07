@@ -1,12 +1,18 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=whoami;Sunnybharti+aka+ShockWave;Backend+Developer;Java+%2B+Spring+Boot;Linux+Enthusiast;Building+Things+That+Actually+Work" alt="Typing SVG" />
-</h1><p align="center">
-  <b>Backend Developer • Java • Spring Boot • REST APIs • Linux</b>
-</p><p align="center">
-  <i>Code. Break. Debug. Repeat.</i>
-</p>┌──(sunny㉿gurugram)-[~]
-└─$ neofetch
+</h1>
 
+<p align="center">
+  <b>Backend Developer • Java • Spring Boot • REST APIs • Linux</b>
+</p>
+
+<p align="center">
+  <i>Code. Break. Debug. Repeat.</i>
+</p>
+
+```
+┌──(sunny㉿gurugram)-[~]
+└─$ neofetch
 
         _nnnn_                    sunny@gurugram
        dGGGGMMb                   ----------------
@@ -24,12 +30,16 @@ __| ".        |\dS"qML            RAM: 16GB of ideas
 _)      \.___.,|     .'            Stack: Java + Spring Boot
 \____   )MMMMMP|   .'             Also: Kotlin • Android • C++
      `-'       `--'               Status: Building...
+```
 
+```
 ┌──(sunny㉿gurugram)-[~]
 └─$ whoami
 
 Sunnybharti
+```
 
+```
 ┌──(sunny㉿gurugram)-[~]
 └─$ cat about.txt
 
@@ -47,7 +57,9 @@ Currently building:
   ├── Search Engines
   ├── Orbit
   └── Things that probably don't need to exist
+```
 
+```
 ┌──(sunny㉿gurugram)-[~]
 └─$ cat skills.txt
 
@@ -65,7 +77,9 @@ Android
 Systems
 ├── C++
 └── Linux
+```
 
+```
 ┌──(sunny㉿gurugram)-[~]
 └─$ ls -la ./projects
 
@@ -74,7 +88,9 @@ drwxr-xr-x  Orbit/
 drwxr-xr-x  Backend-APIs/
 drwxr-xr-x  Android-Apps/
 drwxr-xr-x  Linux-Experiments/
+```
 
+```
 ┌──(sunny㉿gurugram)-[~]
 └─$ git status
 
@@ -86,26 +102,38 @@ Changes not staged for commit:
   modified:   experience.txt
 
 nothing to commit... yet.
+```
 
+```
 ┌──(sunny㉿gurugram)-[~]
 └─$ ./show_stats.sh
+```
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunnybharti072006&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnybharti072006&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="49%" />
-</p><p align="center">
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnybharti072006&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" width="50%" />
-</p>┌──(sunny㉿gurugram)-[~]
+</p>
+
+```
+┌──(sunny㉿gurugram)-[~]
 └─$ cat connect.txt
 
 GitHub:
 https://github.com/sunnybharti072006
+```
 
 <p align="center">
   <a href="https://github.com/sunnybharti072006">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" />
   </a>
-</p>┌──(sunny㉿gurugram)-[~]
+</p>
+
+```
+┌──(sunny㉿gurugram)-[~]
 └─$ echo "thanks for stopping by"
 
 thanks for stopping by
@@ -114,3 +142,4 @@ thanks for stopping by
 └─$ exit
 
 [process exited normally]
+```
