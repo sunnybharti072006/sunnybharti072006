@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
 </p><p align="center">
-  <b>⚡ Backend Developer • Java • Spring Boot • REST APIs • Linux</b>
+  <b> Backend Developer • Java • Spring Boot • REST APIs • Linux</b>
 </p><p align="center">
   <i>“Code. Break. Debug. Repeat.”</i>
 </p>
