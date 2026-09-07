@@ -27,7 +27,7 @@
   FqM            MMMM             CPU: Curiosity @ 100%
 __| ".        |\dS"qML            RAM: 16GB of ideas
 |    `.       | `' \Zq            Role: Backend Developer
-_)      \.___.,|     .'            Stack: Java + Spring Boot
+_)      \.___.,|     .'           Stack: Java + Spring Boot
 \____   )MMMMMP|   .'             Also: Kotlin • Android • C++
      `-'       `--'               Status: Building...
 ```
