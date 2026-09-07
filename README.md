@@ -1,6 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami;Sunnybharti+aka+ShockWave; Backend+Developer+%7C+Java+%2B+Spring+Boot%2C+Kriptonian...;sudo+make+me+a+sandwich" alt="Typing SVG" />
-</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=whoami;Sunnybharti+aka+ShockWave;Backend+Developer;Java+%2B+Spring+Boot;Linux+Enthusiast;Building+Things+That+Actually+Work" alt="Typing SVG" />
+</h1><p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="65" alt="Linux Tux" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/%3E__root%40shockwave-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+</p><p align="center">
+  <b>⚡ Backend Developer • Java • Spring Boot • REST APIs • Linux</b>
+</p><p align="center">
+  <i>“Code. Break. Debug. Repeat.”</i>
+</p>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="60" alt="Tux" />
