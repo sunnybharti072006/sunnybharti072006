@@ -3,33 +3,29 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-%3E_root%40shockwave-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00&labelColor=000000" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="60" alt="Tux" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/-%3E_root%40shockwave-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00&labelColor=000000" />
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" />
+</p>
 
 ```bash
 ┌──(sunny㉿gurugram)-[~]
 └─$ neofetch
 ```
 
-```
-        _nnnn_                  sunny@gurugram
-       dGGGGMMb                 --------------
-      @p~qp~~qMb                OS: Linux (btw)
-      M|@||@) M|                Host: St. Andrews IT & Management
-      @,----.JM|                Kernel: B.Tech-CSE-2024.2028
-     JS^\__/  qKL                Uptime: since 2024, still compiling
-    dZP        qKRb               Shell: Java + Spring Boot
-   dZP          qKKb              DE: Backend Systems
-  fZP            SMMb             Focus: Java, Spring Boot, Backend
-  HZM            MMMM              Also: Kotlin (Android), C++ (Systems)
-  FqM            MMMM             Role: Back End Developer Intern @ Nimblize
-__| ".        |\dS"qML
-|    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMP|   .'
-     `-'       `--'
+```yaml
+OS:      Linux (btw)
+Host:    Gurugram, India
+Kernel:  B.Tech-CSE-2024.2028
+Uptime:  since 2024, still compiling
+Shell:   Java + Spring Boot
+DE:      Backend Systems
+Focus:   Java, Spring Boot, Backend Systems
+Also:    Kotlin (Android), C++ (Systems Programming)
+Role:    Back End Developer Intern @ Nimblize
 ```
 
 ```bash
@@ -37,12 +33,12 @@ _)      \.___.,|     .'
 └─$ cat about.txt
 ```
 
-```yaml
+```json
 {
   "name": "Sunnybharti",
   "handle": "ShockWave",
   "role": "Back End Developer Intern @ Nimblize",
-  "education": "B.Tech CSE, St. Andrews Institute of Technology and Management (2024-2028)",
+  "education": "B.Tech CSE (2024-2028)",
   "location": "Gurugram, India",
   "focus": ["Java", "Spring Boot", "Backend Systems"],
   "also_builds": ["Android (Kotlin)", "Systems Programming (C++)"],
@@ -55,8 +51,6 @@ _)      \.___.,|     .'
 └─$ cat skills.txt
 ```
 
-</div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -67,14 +61,10 @@ _)      \.___.,|     .'
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<div align="center">
-
 ```bash
 ┌──(sunny㉿gurugram)-[~]
 └─$ ./show_stats.sh
 ```
-
-</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunnybharti072006&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
@@ -85,20 +75,14 @@ _)      \.___.,|     .'
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnybharti072006&layout=compact&theme=radical&hide_border=true" width="50%" />
 </p>
 
-<div align="center">
-
 ```bash
 ┌──(sunny㉿gurugram)-[~]
 └─$ cat connect.txt
 ```
 
-</div>
-
 <p align="center">
   <a href="https://github.com/sunnybharti072006"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-<div align="center">
 
 ```bash
 ┌──(sunny㉿gurugram)-[~]
@@ -106,5 +90,3 @@ _)      \.___.,|     .'
 thanks for stopping by
 [process exited normally]
 ```
-
-</div>
