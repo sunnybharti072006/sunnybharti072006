@@ -16,16 +16,23 @@
 └─$ neofetch
 ```
 
-```yaml
-OS:      Linux (btw)
-Host:    Gurugram, India
-Kernel:  B.Tech-CSE-2024.2028
-Uptime:  since 2024, still compiling
-Shell:   Java + Spring Boot
-DE:      Backend Systems
-Focus:   Java, Spring Boot, Backend Systems
-Also:    Kotlin (Android), C++ (Systems Programming)
-Role:    Back End Developer Intern @ Nimblize
+```
+        _nnnn_                  sunny@gurugram
+       dGGGGMMb                 --------------
+      @p~qp~~qMb                OS: Linux (btw)
+      M|@||@) M|                Host: Gurugram, India
+      @,----.JM|                Kernel: B.Tech-CSE-2024.2028
+     JS^\__/  qKL                Uptime: since 2024, still compiling
+    dZP        qKRb               Shell: Java + Spring Boot
+   dZP          qKKb              DE: Backend Systems
+  fZP            SMMb             Focus: Java, Spring Boot, Backend
+  HZM            MMMM              Also: Kotlin (Android), C++
+  FqM            MMMM             Role: Back End Developer Intern @ Nimblize
+__| ".        |\dS"qML
+|    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMP|   .'
+     `-'       `--'
 ```
 
 ```bash
