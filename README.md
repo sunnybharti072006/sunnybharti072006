@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami;Sunnybharti+aka+ShockWave;Backend+Developer+%7C+Java+%2B+Spring+Boot;Building+FairVoice%2C+NeoDB%2C+Kriptonian...;sudo+make+me+a+sandwich" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami;Sunnybharti+aka+ShockWave;Backend+Developer+%7C+Java+%2B+Spring+Boot;%2C+Kriptonian...;sudo+make+me+a+sandwich" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -27,7 +27,7 @@
    dZP          qKKb              DE: Backend Systems
   fZP            SMMb             Focus: Java, Spring Boot, Backend
   HZM            MMMM             Also: Kotlin (Android), C++
-  FqM            MMMM             Role: Back End Developer Intern @ Nimblize
+  FqM            MMMM             Role: Back End Developer Intern && Android Application Devloper
 __| ".        |\dS"qML
 |    `.       | `' \Zq
 _)      \.___.,|     .'
@@ -49,7 +49,7 @@ _)      \.___.,|     .'
   "location": "Gurugram, India",
   "focus": ["Java", "Spring Boot", "Backend Systems, Android Application Devloper"],
   "also_builds": ["Android (Kotlin)", "Systems Programming (C++)"],
-  "currently_building": "search engines, and other things that don't need to exist but do anyway"
+  "currently_building": "search engines,Orbit, and other things that don't need to exist but do anyway"
 }
 ```
 
